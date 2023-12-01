@@ -21,9 +21,8 @@ In Modeling.ipynb file the four models underwent a rigorous development process:
 ## Containerization with Docker:
 - The selected models were containerized using Docker for efficient deployment and scalability.
 ## Deployment:
-- The models are accessible through an application developed using FastAPI. The deployment was done on Google Cloud, enabling easy access via HTTP requests.
+- The models are accessible through an application developed using FastAPI. The deployment was done on Google Cloud, enabling easy access via HTTP requests.  
 
-How to Contribute  
 Feel free to contribute to the project by forking the repository and submitting pull requests. Your contributions are valuable in enhancing the accuracy and efficiency of our Lending Club prediction models.
 
 For any questions or discussions, please connect with @JoneTam.  
