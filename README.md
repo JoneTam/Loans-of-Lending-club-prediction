@@ -1,3 +1,31 @@
-# Loans-of-Lending-club-prediction
+# Loans-of-Lending-Club-Prediction
 
-Here you will find the four models specifically crafted to predict a range of variables for Lending Club business automation. Additionally, an exploratory data analysis was conducted, which encompassed creating statistical summaries and charts, scrutinizing for anomalies, investigating correlations and other interdependencies between variables. Moreover, comprehensive statistical inference was performed, involving the definition of the target population, formulation of multiple statistical hypotheses, construction of confidence intervals, determination of significance levels, and execution of t-tests for these hypotheses. These models have undergone hyperparameter tuning with Optuna and thorough model selection analysis before being containerized using Docker. Subsequently, an application was developed utilizing FastAPI, and the models were deployed to Google Cloud, enabling access via HTTP requests.
+Welcome to the Loans of Lending Club Prediction project! Here, we have developed four specialized models designed to predict various variables for Lending Club business automation. Alongside these models, an in-depth exploratory data analysis (EDA) was conducted, involving the creation of statistical summaries and charts, anomaly scrutiny, investigation of correlations, and exploration of interdependencies between variables.  
+
+## Exploratory Data Analysis (EDA)
+In the EDA.ipynb file, we delved into:
+
+- Statistical summaries and charts
+- Anomaly detection
+- Correlation exploration
+- In-depth statistical inference
+- Definition of the target population
+- Formulation of multiple statistical hypotheses
+- Construction of confidence intervals
+- Determination of significance levels
+- Execution of t-tests for hypotheses
+## Model Development
+In Modeling.ipynb file the four models underwent a rigorous development process:
+- Hyperparameter tuning with Optuna
+- Thorough model selection analysis
+## Containerization with Docker:
+- The selected models were containerized using Docker for efficient deployment and scalability.
+## Deployment:
+- The models are accessible through an application developed using FastAPI. The deployment was done on Google Cloud, enabling easy access via HTTP requests.
+
+How to Contribute  
+Feel free to contribute to the project by forking the repository and submitting pull requests. Your contributions are valuable in enhancing the accuracy and efficiency of our Lending Club prediction models.
+
+For any questions or discussions, please connect with @JoneTam.  
+
+Thank you for your interest in the Loans of Lending Club Prediction Project!
